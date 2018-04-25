@@ -6,7 +6,7 @@ int main()
 {
    int a, b, c;
  
-   cout << "Enter two integers to subtract\n";
+   cout << "Enter two integers to subtract";
    cin >> a >> b;
  
    c = a -b;
