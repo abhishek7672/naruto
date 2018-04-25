@@ -6,11 +6,11 @@ int main()
 {
    int a, b, c;
  
-   cout << "Enter two integers to add\n";
+   cout << "Enter two integers to subtract\n";
    cin >> a >> b;
  
-   c = a + b;
-   cout <<"Sum of the numbers: " << c << endl;
+   c = a -b;
+   cout <<"subtaction of the numbers: " << c << endl;
  
    return 0;
 }
